@@ -8,6 +8,18 @@ Durante las últimas décadas, el diagnóstico de fallas (FD, por sus siglas en 
 
 La base de datos presentada es de una investigación de Semeion, en el Research Center of Sciences of Communication. El enfoque principal de esta investigación fue clasificar correctamente los tipos de defectos en la superficie de planchones de acero inoxidable, considerando seis posibles defectos (adicional a "otros"). El vector de entrada contiene la información de 27 indicadores que describen el contorno y la forma geométrica del defecto. Debido a que la información es confidencial, no se tiene mayor información de las variables de entrada. Las últimas siete columnas en la base de datos de entrenamiento, son clases convertidas previamente con one-hot encoding. 
 
+## Referencias 
+
+[1] Fakhr, M. and Elsayad, A. M. (2012). Steel plates faults diagnosis with data mining models. Journal of Computer Science, 8(4), 506.
+
+[2] Simić, D., Svirčević, V., & Simić, S. (2014, June). An approach of steel plates fault diagnosis in multiple classes decision making. In International Conference on Hybrid Artificial Intelligence Systems (pp. 86-97). Springer, Cham.
+
+[3] Srivastava, A. K. (2019). Comparison analysis of machine learning algorithms for steel plate fault detection. International Research Journal of Engineering and Technology (IRJET), 6(5), 1231-1234.
+
+[4] Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer
+Science.
+
+[5] Abdullahi, A., Samsudin, N. A., Ibrahim, M. R., Aripin, M. S., Khalid, S. K. A., & Othman, Z. A. (2020). Towards IR4. 0 implementation in e-manufacturing: artificial intelligence application in steel plate fault detection. Indonesian Journal of Electrical Engineering and Computer Science, 20(1), 430-436.
 
 
 **Elaborado por Sandra de la Fuente**
