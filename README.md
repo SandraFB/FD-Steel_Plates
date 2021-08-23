@@ -8,6 +8,41 @@ Durante las últimas décadas, el diagnóstico de fallas (FD, por sus siglas en 
 
 La base de datos presentada es de una investigación de Semeion, en el Research Center of Sciences of Communication. El enfoque principal de esta investigación fue clasificar correctamente los tipos de defectos en la superficie de planchones de acero inoxidable, considerando seis posibles defectos (adicional a "otros"). El vector de entrada contiene la información de 27 indicadores que describen el contorno y la forma geométrica del defecto. Debido a que la información es confidencial, no se tiene mayor información de las variables de entrada. Las últimas siete columnas en la base de datos de entrenamiento, son clases convertidas previamente con one-hot encoding. 
 
+
+| Variables de entrada      | Clases           |
+| ------------- |:-------------:|
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
+
+| X_Minimum | Pastry|
+| X_Maximum  |     Z_Scratch|     
+| Y_Minimum| K_Scatch|
+| Y_Maximum| Stains|
+| Pixels_Areas| Dirtiness|
+| X_Perimeter| Bumps|
+| Y_Perimeter |      Other_Faults|    
+| Sum_of_Luminosity|  |
+|Minimum_of_Luminosity||
+|Maximum_of_Luminosity||
+|Length_of_Conveyer ||
+|TypeOfSteel_A300 ||
+|TypeOfSteel_A400||
+|Steel_Plate_Thickness||
+|Edges_Index||
+|Empty_Index||
+|Square_Index||         
+|Outside_X_Index||
+|Edges_X_Index||
+|Edges_Y_Index ||       
+|Outside_Global_Index||
+|LogOfAreas||
+|Log_X_Index||          
+|Log_Y_Index||
+|Orientation_Index||
+|Luminosity_Index     ||
+|SigmoidOfAreas     ||
+
 ## Referencias 
 
 [1] Fakhr, M. and Elsayad, A. M. (2012). Steel plates faults diagnosis with data mining models. Journal of Computer Science, 8(4), 506.
