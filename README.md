@@ -11,10 +11,6 @@ La base de datos presentada es de una investigación de Semeion, en el Research 
 
 | Variables de entrada      | Clases           |
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
-
 | X_Minimum | Pastry|
 | X_Maximum  |     Z_Scratch|     
 | Y_Minimum| K_Scatch|
